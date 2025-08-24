@@ -1,0 +1,22 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>57018.0</distance>
+<average_hr></average_hr>
+<average_speed>1.4229999780654907</average_speed>
+<start_time>2024-11-01T22:40:02+00:00</start_time>
+<end_time>2024-11-02T09:48:04.250000+00:00</end_time>
+<moving_time>36618.9</moving_time>
+<elapsed_time>40082.254</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-11-01T22:40:02.000Z</time>
+  </metadata>
+  <trk>
+    <name>2024柴古唐斯括苍越野赛50K</name>
+    <type>trail_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
